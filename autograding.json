@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Test test_func_aplicar_filtro_convolucion",
+      "run": "pytest tests/test_func_aplicar_filtro_convolucion.py",
+      "points": 1
+    },
+    {
+      "name": "Test test_func_aplicar_filtro",
+      "run": "pytest tests/test_func_aplicar_filtro.py",
+      "points": 1
+    },
+    {
+      "name": "Test test_func_aplicar_mascara",
+      "run": "pytest tests/test_func_aplicar_mascara.py",
+      "points": 1
+    },
+    {
+      "name": "Test test_func_binariza",
+      "run": "pytest tests/test_func_binariza.py",
+      "points": 1
+    },
+    {
+      "name": "Test test_func_detecta_bordes",
+      "run": "pytest tests/test_func_detecta_bordes.py",
+      "points": 1
+    },
+    {
+      "name": "Test test_func_normaliza",
+      "run": "pytest tests/test_func_normaliza.py",
+      "points": 1
+    },
+    {
+      "name": "Test test_func_nueva_resolucion",
+      "run": "pytest tests/test_func_nueva_resolucion.py",
+      "points": 1
+    },
+    {
+      "name": "Test test_func_transformar_color",
+      "run": "pytest tests/test_func_transformar_color.py",
+      "points": 1
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "tests": [
+    {
+      "name": "Test addition",
+      "run": "pytest tests/test_example.py",
+      "points": 5
+    }
+  ]
+}
